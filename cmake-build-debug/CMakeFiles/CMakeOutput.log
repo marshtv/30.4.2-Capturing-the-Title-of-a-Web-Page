@@ -440,3 +440,1749 @@ Parsed CXX implicit link information from above output:
   implicit fwks: []
 
 
+Performing C++ SOURCE FILE Test LEAK_SANITIZER_AVAILABLE succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_68d7d && [1/2] Building CXX object CMakeFiles/cmTC_68d7d.dir/src.cxx.obj
+[2/2] Linking CXX executable cmTC_68d7d.exe
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test UNDEFINED_BEHAVIOUR_SANITIZER_AVAILABLE succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_345da && [1/2] Building CXX object CMakeFiles/cmTC_345da.dir/src.cxx.obj
+[2/2] Linking CXX executable cmTC_345da.exe
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test FNO_LTO_AVAILABLE succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_f6583 && [1/2] Building C object CMakeFiles/cmTC_f6583.dir/src.c.obj
+[2/2] Linking C executable cmTC_f6583.exe
+
+
+Source file was:
+int main() { return 0; }
+Determining if the include file unistd.h exists passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_71a07 && [1/2] Building C object CMakeFiles/cmTC_71a07.dir/CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_71a07.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_d8db3 && [1/2] Building C object CMakeFiles/cmTC_d8db3.dir/CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_d8db3.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_cc3c9 && [1/2] Building C object CMakeFiles/cmTC_cc3c9.dir/CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_cc3c9.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_b5768 && [1/2] Building C object CMakeFiles/cmTC_b5768.dir/CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_b5768.exe
+
+
+
+Determining size of off64_t passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_8fcf7 && [1/2] Building C object CMakeFiles/cmTC_8fcf7.dir/OFF64_T.c.obj
+[2/2] Linking C executable cmTC_8fcf7.exe
+
+
+
+Determining if the function fseeko exists passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_f1def && [1/2] Building C object CMakeFiles/cmTC_f1def.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_f1def.exe
+
+
+
+Determining if the function strerror exists passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_2beaa && [1/2] Building C object CMakeFiles/cmTC_2beaa.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_2beaa.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_NO_INTERPOSITION succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_9e783 && [1/2] Building C object CMakeFiles/cmTC_9e783.dir/src.c.obj
+[2/2] Linking C executable cmTC_9e783.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_BUILTIN_CTZ succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_c4b4d && [1/2] Building C object CMakeFiles/cmTC_c4b4d.dir/src.c.obj
+[2/2] Linking C executable cmTC_c4b4d.exe
+
+
+Source file was:
+int main(void) {
+        unsigned int zero = 0;
+        long test = __builtin_ctz(zero);
+        (void)test;
+        return 0;
+    }
+Performing C SOURCE FILE Test HAVE_BUILTIN_CTZLL succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_44d28 && [1/2] Building C object CMakeFiles/cmTC_44d28.dir/src.c.obj
+[2/2] Linking C executable cmTC_44d28.exe
+
+
+Source file was:
+int main(void) {
+        unsigned int zero = 0;
+        long test = __builtin_ctzll(zero);
+        (void)test;
+        return 0;
+    }
+Performing C SOURCE FILE Test HAVE_PTRDIFF_T succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_2f524 && [1/2] Building C object CMakeFiles/cmTC_2f524.dir/src.c.obj
+[2/2] Linking C executable cmTC_2f524.exe
+
+
+Source file was:
+#include <stddef.h>
+     int main() {
+         ptrdiff_t *a;
+         (void)a;
+         return 0;
+    }
+Performing C SOURCE FILE Test HAVE_SSE2_INTRIN succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_d9417 && [1/2] Building C object CMakeFiles/cmTC_d9417.dir/src.c.obj
+[2/2] Linking C executable cmTC_d9417.exe
+
+
+Source file was:
+#include <immintrin.h>
+        int main(void) {
+            __m128i zero = _mm_setzero_si128();
+            (void)zero;
+            return 0;
+        }
+Performing C SOURCE FILE Test HAVE_SSSE3_INTRIN succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_72bf7 && [1/2] Building C object CMakeFiles/cmTC_72bf7.dir/src.c.obj
+[2/2] Linking C executable cmTC_72bf7.exe
+
+
+Source file was:
+#include <immintrin.h>
+        int main(void) {
+            __m128i u, v, w;
+            u = _mm_set1_epi32(1);
+            v = _mm_set1_epi32(2);
+            w = _mm_hadd_epi32(u, v);
+            (void)w;
+            return 0;
+        }
+Performing C SOURCE FILE Test HAVE_SSE42CRC_INLINE_ASM succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3d5e5 && [1/2] Building C object CMakeFiles/cmTC_3d5e5.dir/src.c.obj
+[2/2] Linking C executable cmTC_3d5e5.exe
+
+
+Source file was:
+int main(void) {
+            unsigned val = 0, h = 0;
+        #if defined(_MSC_VER)
+            { __asm mov edx, h __asm mov eax, val __asm crc32 eax, edx __asm mov val, eax }
+        #else
+            __asm__ __volatile__ ( "crc32 %1,%0" : "+r" (h) : "r" (val) );
+        #endif
+            return (int)h;
+        }
+Performing C SOURCE FILE Test HAVE_SSE42CRC_INTRIN succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_5af98 && [1/2] Building C object CMakeFiles/cmTC_5af98.dir/src.c.obj
+[2/2] Linking C executable cmTC_5af98.exe
+
+
+Source file was:
+#include <immintrin.h>
+        int main(void) {
+            unsigned crc = 0;
+            char c = 'c';
+        #if defined(_MSC_VER)
+            crc = _mm_crc32_u32(crc, c);
+        #else
+            crc = __builtin_ia32_crc32qi(crc, c);
+        #endif
+            (void)crc;
+            return 0;
+        }
+Performing C SOURCE FILE Test HAVE_SSE42CMPSTR_INTRIN succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_cb335 && [1/2] Building C object CMakeFiles/cmTC_cb335.dir/src.c.obj
+[2/2] Linking C executable cmTC_cb335.exe
+
+
+Source file was:
+#include <immintrin.h>
+        int main(void) {
+            unsigned char a[64] = { 0 };
+            unsigned char b[64] = { 0 };
+            __m128i xmm_src0, xmm_src1;
+            xmm_src0 = _mm_loadu_si128((__m128i *)(char *)a);
+            xmm_src1 = _mm_loadu_si128((__m128i *)(char *)b);
+            return _mm_cmpestri(xmm_src0, 16, xmm_src1, 16, 0);
+        }
+Performing C SOURCE FILE Test HAVE_PCLMULQDQ_INTRIN succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_4c620 && [1/2] Building C object CMakeFiles/cmTC_4c620.dir/src.c.obj
+[2/2] Linking C executable cmTC_4c620.exe
+
+
+Source file was:
+#include <immintrin.h>
+            int main(void) {
+                __m128i a = _mm_setzero_si128();
+                __m128i b = _mm_setzero_si128();
+                __m128i c = _mm_clmulepi64_si128(a, b, 0x10);
+                (void)c;
+                return 0;
+            }
+Performing C SOURCE FILE Test HAVE_AVX2_INTRIN succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_143a8 && [1/2] Building C object CMakeFiles/cmTC_143a8.dir/src.c.obj
+[2/2] Linking C executable cmTC_143a8.exe
+
+
+Source file was:
+#include <immintrin.h>
+        int main(void) {
+            __m256i x = _mm256_set1_epi16(2);
+            const __m256i y = _mm256_set1_epi16(1);
+            x = _mm256_subs_epu16(x, y);
+            (void)x;
+            return 0;
+        }
+Performing C SOURCE FILE Test OPT_pedantic succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3f5ce && [1/2] Building C object CMakeFiles/cmTC_3f5ce.dir/src.c.obj
+[2/2] Linking C executable cmTC_3f5ce.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wall succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_4d3f2 && [1/2] Building C object CMakeFiles/cmTC_4d3f2.dir/src.c.obj
+[2/2] Linking C executable cmTC_4d3f2.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_W succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3f051 && [1/2] Building C object CMakeFiles/cmTC_3f051.dir/src.c.obj
+[2/2] Linking C executable cmTC_3f051.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wpointer_arith succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_45cde && [1/2] Building C object CMakeFiles/cmTC_45cde.dir/src.c.obj
+[2/2] Linking C executable cmTC_45cde.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wwrite_strings succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_cb8cf && [1/2] Building C object CMakeFiles/cmTC_cb8cf.dir/src.c.obj
+[2/2] Linking C executable cmTC_cb8cf.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wunused succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_fe8e0 && [1/2] Building C object CMakeFiles/cmTC_fe8e0.dir/src.c.obj
+[2/2] Linking C executable cmTC_fe8e0.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wshadow succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_82b10 && [1/2] Building C object CMakeFiles/cmTC_82b10.dir/src.c.obj
+[2/2] Linking C executable cmTC_82b10.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Winline succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_f9e69 && [1/2] Building C object CMakeFiles/cmTC_f9e69.dir/src.c.obj
+[2/2] Linking C executable cmTC_f9e69.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wnested_externs succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_fcf77 && [1/2] Building C object CMakeFiles/cmTC_fcf77.dir/src.c.obj
+[2/2] Linking C executable cmTC_fcf77.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wmissing_declarations succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_45d5d && [1/2] Building C object CMakeFiles/cmTC_45d5d.dir/src.c.obj
+[2/2] Linking C executable cmTC_45d5d.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wmissing_prototypes succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_a5995 && [1/2] Building C object CMakeFiles/cmTC_a5995.dir/src.c.obj
+[2/2] Linking C executable cmTC_a5995.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wfloat_equal succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_7823b && [1/2] Building C object CMakeFiles/cmTC_7823b.dir/src.c.obj
+[2/2] Linking C executable cmTC_7823b.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wsign_compare succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_f77ef && [1/2] Building C object CMakeFiles/cmTC_f77ef.dir/src.c.obj
+[2/2] Linking C executable cmTC_f77ef.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wundef succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_faf6f && [1/2] Building C object CMakeFiles/cmTC_faf6f.dir/src.c.obj
+[2/2] Linking C executable cmTC_faf6f.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wendif_labels succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_76f09 && [1/2] Building C object CMakeFiles/cmTC_76f09.dir/src.c.obj
+[2/2] Linking C executable cmTC_76f09.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wstrict_prototypes succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_8e56c && [1/2] Building C object CMakeFiles/cmTC_8e56c.dir/src.c.obj
+[2/2] Linking C executable cmTC_8e56c.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wdeclaration_after_statement succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_51381 && [1/2] Building C object CMakeFiles/cmTC_51381.dir/src.c.obj
+[2/2] Linking C executable cmTC_51381.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wstrict_aliasing_3 succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_20eee && [1/2] Building C object CMakeFiles/cmTC_20eee.dir/src.c.obj
+[2/2] Linking C executable cmTC_20eee.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wcast_align succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_8922d && [1/2] Building C object CMakeFiles/cmTC_8922d.dir/src.c.obj
+[2/2] Linking C executable cmTC_8922d.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wtype_limits succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_37d63 && [1/2] Building C object CMakeFiles/cmTC_37d63.dir/src.c.obj
+[2/2] Linking C executable cmTC_37d63.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wold_style_declaration succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_aa4f4 && [1/2] Building C object CMakeFiles/cmTC_aa4f4.dir/src.c.obj
+[2/2] Linking C executable cmTC_aa4f4.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wmissing_parameter_type succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_b9852 && [1/2] Building C object CMakeFiles/cmTC_b9852.dir/src.c.obj
+[2/2] Linking C executable cmTC_b9852.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wempty_body succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_04fbf && [1/2] Building C object CMakeFiles/cmTC_04fbf.dir/src.c.obj
+[2/2] Linking C executable cmTC_04fbf.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wclobbered succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_42710 && [1/2] Building C object CMakeFiles/cmTC_42710.dir/src.c.obj
+[2/2] Linking C executable cmTC_42710.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wignored_qualifiers succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_f83ae && [1/2] Building C object CMakeFiles/cmTC_f83ae.dir/src.c.obj
+[2/2] Linking C executable cmTC_f83ae.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wconversion succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3a76e && [1/2] Building C object CMakeFiles/cmTC_3a76e.dir/src.c.obj
+[2/2] Linking C executable cmTC_3a76e.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wvla succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_67470 && [1/2] Building C object CMakeFiles/cmTC_67470.dir/src.c.obj
+[2/2] Linking C executable cmTC_67470.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT_Wdouble_promotion succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_97822 && [1/2] Building C object CMakeFiles/cmTC_97822.dir/src.c.obj
+[2/2] Linking C executable cmTC_97822.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPTlong_long succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3304e && [1/2] Building C object CMakeFiles/cmTC_3304e.dir/src.c.obj
+[2/2] Linking C executable cmTC_3304e.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPTmultichar succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_ae041 && [1/2] Building C object CMakeFiles/cmTC_ae041.dir/src.c.obj
+[2/2] Linking C executable cmTC_ae041.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPTformat_nonliteral succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_cae56 && [1/2] Building C object CMakeFiles/cmTC_cae56.dir/src.c.obj
+[2/2] Linking C executable cmTC_cae56.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPTsign_conversion succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_c38b6 && [1/2] Building C object CMakeFiles/cmTC_c38b6.dir/src.c.obj
+[2/2] Linking C executable cmTC_c38b6.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPTsystem_headers succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3fd02 && [1/2] Building C object CMakeFiles/cmTC_3fd02.dir/src.c.obj
+[2/2] Linking C executable cmTC_3fd02.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPTpedantic_ms_format succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_6a7e8 && [1/2] Building C object CMakeFiles/cmTC_6a7e8.dir/src.c.obj
+[2/2] Linking C executable cmTC_6a7e8.exe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_79f82 && [1/2] Building C object CMakeFiles/cmTC_79f82.dir/src.c.obj
+[2/2] Linking C executable cmTC_79f82.exe
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function getch exists in the ws2_32; passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_b81d9 && [1/2] Building C object CMakeFiles/cmTC_b81d9.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_b81d9.exe
+
+
+
+Determining if the function getch exists in the winmm;ws2_32 passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_43035 && [1/2] Building C object CMakeFiles/cmTC_43035.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_43035.exe
+
+
+
+Determining if files ;windows.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_abc3e && [1/2] Building C object CMakeFiles/cmTC_abc3e.dir/HAVE_WINDOWS_H.c.obj
+[2/2] Linking C executable cmTC_abc3e.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_31b8b && [1/2] Building C object CMakeFiles/cmTC_31b8b.dir/HAVE_WS2TCPIP_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_WS2TCPIP_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_31b8b.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_ad6ba && [1/2] Building C object CMakeFiles/cmTC_ad6ba.dir/HAVE_WINSOCK2_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_WINSOCK2_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_ad6ba.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_43ca5 && [1/2] Building C object CMakeFiles/cmTC_43ca5.dir/HAVE_WINCRYPT_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_WINCRYPT_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_43ca5.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h;stdio.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_182e4 && [1/2] Building C object CMakeFiles/cmTC_182e4.dir/HAVE_STDIO_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_STDIO_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_182e4.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_78155 && [1/2] Building C object CMakeFiles/cmTC_78155.dir/HAVE_ASSERT_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_ASSERT_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_78155.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_a9a3c && [1/2] Building C object CMakeFiles/cmTC_a9a3c.dir/HAVE_ERRNO_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_ERRNO_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_a9a3c.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;libgen.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_245c3 && [1/2] Building C object CMakeFiles/cmTC_245c3.dir/HAVE_LIBGEN_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_LIBGEN_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_245c3.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;libgen.h;locale.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_0879b && [1/2] Building C object CMakeFiles/cmTC_0879b.dir/HAVE_LOCALE_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_LOCALE_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_0879b.exe
+
+
+
+Determining if files windows.h;ws2tcpip.h;winsock2.h;wincrypt.h;stdio.h;sys/stat.h;sys/types.h;sys/utime.h;assert.h;errno.h;fcntl.h;io.h;libgen.h;locale.h;setjmp.h;signal.h;stdbool.h exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_ae60e && [1/2] Building C object CMakeFiles/cmTC_ae60e.dir/HAVE_STDBOOL_H.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckIncludeFiles/HAVE_STDBOOL_H.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_ae60e.exe
+
+
+
+Determining size of size_t passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_13d0e && [1/2] Building C object CMakeFiles/cmTC_13d0e.dir/SIZEOF_SIZE_T.c.obj
+[2/2] Linking C executable cmTC_13d0e.exe
+
+
+
+Determining size of ssize_t passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_f4716 && [1/2] Building C object CMakeFiles/cmTC_f4716.dir/SIZEOF_SSIZE_T.c.obj
+[2/2] Linking C executable cmTC_f4716.exe
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_d00f5 && [1/2] Building C object CMakeFiles/cmTC_d00f5.dir/SIZEOF_LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_d00f5.exe
+
+
+
+Determining size of long passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_96ebe && [1/2] Building C object CMakeFiles/cmTC_96ebe.dir/SIZEOF_LONG.c.obj
+[2/2] Linking C executable cmTC_96ebe.exe
+
+
+
+Determining size of short passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_4dea3 && [1/2] Building C object CMakeFiles/cmTC_4dea3.dir/SIZEOF_SHORT.c.obj
+[2/2] Linking C executable cmTC_4dea3.exe
+
+
+
+Determining size of int passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_afd73 && [1/2] Building C object CMakeFiles/cmTC_afd73.dir/SIZEOF_INT.c.obj
+[2/2] Linking C executable cmTC_afd73.exe
+
+
+
+Determining size of __int64 passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_0b46e && [1/2] Building C object CMakeFiles/cmTC_0b46e.dir/SIZEOF___INT64.c.obj
+[2/2] Linking C executable cmTC_0b46e.exe
+
+
+
+Determining size of time_t passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_ed385 && [1/2] Building C object CMakeFiles/cmTC_ed385.dir/SIZEOF_TIME_T.c.obj
+[2/2] Linking C executable cmTC_ed385.exe
+
+
+
+Determining if the basename exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_5d114 && [1/2] Building C object CMakeFiles/cmTC_5d114.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&basename))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_5d114.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef basename
+  return ((int*)(&basename))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the gethostbyname exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_36792 && [1/2] Building C object CMakeFiles/cmTC_36792.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&gethostbyname))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_36792.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef gethostbyname
+  return ((int*)(&gethostbyname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the strtoll exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_531c7 && [1/2] Building C object CMakeFiles/cmTC_531c7.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&strtoll))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_531c7.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoll
+  return ((int*)(&strtoll))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the _strtoi64 exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_1b4af && [1/2] Building C object CMakeFiles/cmTC_1b4af.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&_strtoi64))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_1b4af.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _strtoi64
+  return ((int*)(&_strtoi64))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the freeaddrinfo exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_130f6 && [1/2] Building C object CMakeFiles/cmTC_130f6.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&freeaddrinfo))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_130f6.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef freeaddrinfo
+  return ((int*)(&freeaddrinfo))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getprotobyname exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_179d9 && [1/2] Building C object CMakeFiles/cmTC_179d9.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&getprotobyname))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_179d9.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getprotobyname
+  return ((int*)(&getprotobyname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getpeername exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_328d2 && [1/2] Building C object CMakeFiles/cmTC_328d2.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&getpeername))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_328d2.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getpeername
+  return ((int*)(&getpeername))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getsockname exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_c8dbe && [1/2] Building C object CMakeFiles/cmTC_c8dbe.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&getsockname))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_c8dbe.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getsockname
+  return ((int*)(&getsockname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setlocale exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_89c6f && [1/2] Building C object CMakeFiles/cmTC_89c6f.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&setlocale))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_89c6f.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setlocale
+  return ((int*)(&setlocale))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setmode exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_4fe60 && [1/2] Building C object CMakeFiles/cmTC_4fe60.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&setmode))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_4fe60.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setmode
+  return ((int*)(&setmode))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setsockopt exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_aa59a && [1/2] Building C object CMakeFiles/cmTC_aa59a.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&setsockopt))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_aa59a.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setsockopt
+  return ((int*)(&setsockopt))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the inet_pton exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_1abdb && [1/2] Building C object CMakeFiles/cmTC_1abdb.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:32:11: warning: ISO C forbids conversion of function pointer to object pointer type [-Wpedantic]
+   32 |   return ((int*)(&inet_pton))[argc];
+      |           ^
+[2/2] Linking C executable cmTC_1abdb.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef inet_pton
+  return ((int*)(&inet_pton))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing Curl Test HAVE_IOCTLSOCKET passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_ad76c && [1/2] Building C object CMakeFiles/cmTC_ad76c.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:236:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  236 | main ()
+      | ^~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:241:24: warning: 'socket' is used uninitialized [-Wuninitialized]
+  241 |  unsigned long flags = ioctlsocket(socket, FIONBIO, &flags);
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2/2] Linking C executable cmTC_ad76c.exe
+
+
+Performing Curl Test HAVE_IOCTLSOCKET_FIONBIO passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_b666a && [1/2] Building C object CMakeFiles/cmTC_b666a.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:308:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  308 | main ()
+      | ^~~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c: In function 'main':
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:312:41: warning: passing argument 3 of 'ioctlsocket' from incompatible pointer type [-Wincompatible-pointer-types]
+  312 |         if(0 != ioctlsocket(0, FIONBIO, &flags))
+      |                                         ^~~~~~
+      |                                         |
+      |                                         int *
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:303:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:1007:76: note: expected 'u_long *' {aka 'long unsigned int *'} but argument is of type 'int *'
+ 1007 |   WINSOCK_API_LINKAGE int WSAAPI ioctlsocket(SOCKET s,__LONG32 cmd,u_long *argp);
+      |                                                                    ~~~~~~~~^~~~
+[2/2] Linking C executable cmTC_b666a.exe
+
+
+Performing Curl Test HAVE_BOOL_T passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_3025f && [1/2] Building C object CMakeFiles/cmTC_3025f.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:169:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  169 | main ()
+      | ^~~~
+[2/2] Linking C executable cmTC_3025f.exe
+
+
+Performing Curl Test HAVE_FILE_OFFSET_BITS passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_9b4b2 && [1/2] Building C object CMakeFiles/cmTC_9b4b2.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:221:5: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  221 | int main () { ; return 0; }
+      |     ^~~~
+[2/2] Linking C executable cmTC_9b4b2.exe
+
+
+Performing Curl Test HAVE_VARIADIC_MACROS_C99 passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_ad9b0 && [1/2] Building C object CMakeFiles/cmTC_ad9b0.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:486:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  486 | main() {
+      | ^~~~
+[2/2] Linking C executable cmTC_ad9b0.exe
+
+
+Performing Curl Test HAVE_VARIADIC_MACROS_GCC passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_66995 && [1/2] Building C object CMakeFiles/cmTC_66995.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:495:32: warning: ISO C does not permit named variadic macros [-Wvariadic-macros]
+  495 | #define gcc_vmacro3(first, args...) fun3(first, args)
+      |                                ^~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:496:32: warning: ISO C does not permit named variadic macros [-Wvariadic-macros]
+  496 | #define gcc_vmacro2(first, args...) fun2(first, args)
+      |                                ^~~
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:509:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  509 | main() {
+      | ^~~~
+[2/2] Linking C executable cmTC_66995.exe
+
+
+Determining size of off_t passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_65a2e && [1/2] Building C object CMakeFiles/cmTC_65a2e.dir/SIZEOF_OFF_T.c.obj
+[2/2] Linking C executable cmTC_65a2e.exe
+
+
+
+Determining size of curl_off_t passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_b4d47 && [1/2] Building C object CMakeFiles/cmTC_b4d47.dir/SIZEOF_CURL_OFF_T.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/include/curl/system.h:422,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckTypeSize/SIZEOF_CURL_OFF_T.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_b4d47.exe
+
+
+
+Performing Curl Test HAVE_CLOCK_GETTIME_MONOTONIC passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_7e31e && [1/2] Building C object CMakeFiles/cmTC_7e31e.dir/CurlTests.c.obj
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/_deps/curl-src/CMake/CurlTests.c:458:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+  458 | main() {
+      | ^~~~
+[2/2] Linking C executable cmTC_7e31e.exe
+
+
+Performing C SOURCE FILE Test curl_cv_recv succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_1abc0 && [1/2] Building C object CMakeFiles/cmTC_1abc0.dir/src.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/src.c:2:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C static library libcmTC_1abc0.a
+
+
+Source file was:
+#undef inline
+#include <winsock2.h>
+#include <windows.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+int main(void) {
+    recv(0, 0, 0, 0);
+    return 0;
+}
+Performing C SOURCE FILE Test curl_cv_func_recv_test succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_4e7bd && [1/2] Building C object CMakeFiles/cmTC_4e7bd.dir/src.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/src.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C static library libcmTC_4e7bd.a
+
+
+Source file was:
+
+    #undef inline
+#include <winsock2.h>
+#include <windows.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+    #ifdef WINSOCK_API_LINKAGE
+    WINSOCK_API_LINKAGE
+    #endif
+    extern int PASCAL
+    recv(SOCKET, char *, int, int);
+    int main(void) {
+      SOCKET s=0;
+      char * buf=0;
+      int len=0;
+      int flags=0;
+      int res = recv(s, buf, len, flags);
+      (void) res;
+      return 0;
+    }
+Performing C SOURCE FILE Test curl_cv_send succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_b9530 && [1/2] Building C object CMakeFiles/cmTC_b9530.dir/src.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/src.c:2:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C static library libcmTC_b9530.a
+
+
+Source file was:
+#undef inline
+#include <winsock2.h>
+#include <windows.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+int main(void) {
+    send(0, 0, 0, 0);
+    return 0;
+}
+Performing C SOURCE FILE Test curl_cv_func_send_test succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_5ed12 && [1/2] Building C object CMakeFiles/cmTC_5ed12.dir/src.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/src.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C static library libcmTC_5ed12.a
+
+
+Source file was:
+
+    #undef inline
+#include <winsock2.h>
+#include <windows.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+    #ifdef WINSOCK_API_LINKAGE
+    WINSOCK_API_LINKAGE
+    #endif
+    extern int PASCAL
+    send(SOCKET, const char *, int, int);
+    int main(void) {
+      SOCKET s=0;
+      const char * buf=0;
+      int len=0;
+      int flags=0;
+      int res = send(s, buf, len, flags);
+      (void) res;
+      return 0;
+    }
+Performing C SOURCE FILE Test HAVE_STRUCT_TIMEVAL succeeded with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_5a029 && [1/2] Building C object CMakeFiles/cmTC_5a029.dir/src.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/src.c:2:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C static library libcmTC_5a029.a
+
+
+Source file was:
+#undef inline
+#include <winsock2.h>
+#include <windows.h>
+#ifndef WIN32_LEAN_AND_MEAN
+#define WIN32_LEAN_AND_MEAN
+#endif
+int main(void) {
+  struct timeval ts;
+  ts.tv_sec  = 0;
+  ts.tv_usec = 0;
+  (void)ts;
+  return 0;
+}
+Determining size of struct sockaddr_storage passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_e97cc && [1/2] Building C object CMakeFiles/cmTC_e97cc.dir/SIZEOF_STRUCT_SOCKADDR_STORAGE.c.obj
+In file included from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CheckTypeSize/SIZEOF_STRUCT_SOCKADDR_STORAGE.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C static library libcmTC_e97cc.a
+
+
+
+Determining if the CryptAcquireContext exist passed with the following output:
+Change Dir: F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe cmTC_53a2e && [1/2] Building C object CMakeFiles/cmTC_53a2e.dir/CheckSymbolExists.c.obj
+In file included from C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/ws2tcpip.h:17,
+                 from F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:
+C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:15:2: warning: #warning Please include winsock2.h before windows.h [-Wcpp]
+   15 | #warning Please include winsock2.h before windows.h
+      |  ^~~~~~~
+[2/2] Linking C executable cmTC_53a2e.exe
+
+
+File F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.2 Capturing the Title of a Web Page/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <ws2tcpip.h>
+#include <winsock2.h>
+#include <wincrypt.h>
+#include <stdio.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/utime.h>
+#include <assert.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <io.h>
+#include <libgen.h>
+#include <locale.h>
+#include <setjmp.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <process.h>
+#include <stddef.h>
+#include <malloc.h>
+#include <memory.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CryptAcquireContext
+  return ((int*)(&CryptAcquireContext))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
